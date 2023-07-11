@@ -60,3 +60,16 @@ def print_circle(space_cnt = 0):
 print_circle(4)
 
 # execute in command line
+if __name__ == '__main__':
+    input_str = "0"
+    while input_str.isdigit():
+        # get input from command line
+        input_str = input("Please input a number: ")
+
+        if not input_str.isdigit():
+            break
+
+        # convert input to int
+        input_num = int(input_str)
+        # print circle
+        print_circle(input_num)
