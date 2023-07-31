@@ -17,3 +17,5 @@ summation = w1*x1 + w2*x2 + bias
 output = 1/(1+math.exp(-summation))
 
 print(summation, " ", output)
+
+print(summation, " ", output, 2)
