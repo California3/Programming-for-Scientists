@@ -16,4 +16,5 @@ bias = -10
 summation = w1*x1 + w2*x2 + bias
 output = 1/(1+math.exp(-summation))
 
-print(summation, " ", output)
+print(f"Summation: {summation:.2f}, Output: {output:.2f}")
+
