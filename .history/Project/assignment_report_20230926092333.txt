@@ -1,0 +1,24 @@
+
+Individual report for the COMP1730/6730 project assignment S2 2022
+-------------------------------------------------------------------
+
+Question 1: Write your name and ANU ID
+
+# My ANU ID: u7100771
+# My NAME: Guangming Zeng
+
+I declare that this submission is my own work
+[ref: https://www.anu.edu.au/students/academic-skills/academic-integrity ]
+-------------------------------------------------------------------
+
+Question 2: Select a piece of code in your assignment solution that
+you have written, and explain:    
+
+(a) What does this piece of code do?
+
+(b) How does it work?
+
+(c) What other possible ways did you consider to implement this
+functionality, and why did you choose the one you did?
+
+-------------------------------------------------------------------
